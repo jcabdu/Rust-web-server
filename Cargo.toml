@@ -1,0 +1,6 @@
+[workspace]
+
+members= [
+"singlethread",
+"multithread",
+]
